@@ -19,7 +19,9 @@ body {
 .social-btns .btn.whatsapp:before{
   background-color: green;
 }
-
+.social-btns .btn.slack:before{
+  background-color: #3d0d25;
+}
 .social-btns .btn.whatsapp .fa{
   color: #000000;
 }
@@ -83,6 +85,11 @@ body {
 .social-btns .btn.google .fa {
   color: #dc4a38;
 }
+
+.social-btns .btn.slack .fa {
+  color: #3d0d25;
+}
+
 
 .social-btns .btn:focus:before,
 .social-btns .btn:hover:before {
