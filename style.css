@@ -22,7 +22,7 @@ body {
   background-color: green;
 }
 
-.social-btns .btn.slack:before {
+.social-btns .btn.comments:before {
   background-color: #3d0d25;
 }
 
@@ -99,7 +99,7 @@ body {
   color: #dc4a38;
 }
 
-.social-btns .btn.slack .fa {
+.social-btns .btn.comments .fa {
   color: #3d0d25;
 }
 
